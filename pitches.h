@@ -1,5 +1,5 @@
 /*************************************************
- * Public Constants
+ * Public Constants / Pitches.h
  *************************************************/
 #define z1  delay(500);
 #define z05 delay(250);
