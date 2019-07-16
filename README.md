@@ -10,6 +10,6 @@ READ ME FOR: "Music Box [-Ver-1.0-]"
    
    - 15/07/2019
 
-Local README updated, after claoning to local machine
+Local README updated, after cloning to local machine
 
 -16/07/2019
