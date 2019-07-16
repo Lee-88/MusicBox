@@ -9,3 +9,7 @@ READ ME FOR: "Music Box [-Ver-1.0-]"
    of it in the long run, but mostly it is a GitHub lesson. 
    
    - 15/07/2019
+
+Local README updated, after claoning to local machine
+
+-16/07/2019
