@@ -17,9 +17,9 @@ void loop() {
     else
     {
     noTone(MB_PIN9);}
-    digitalWrite(led, LOW);    // turn the LED off by making the voltage LOW
+    digitalWrite(led, LOW);
     delay(1000);
-    digitalWrite(led, HIGH);   // turn the LED on (HIGH is the voltage level)
+    digitalWrite(led, HIGH);
     delay(1000);   
     }
   }
